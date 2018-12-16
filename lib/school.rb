@@ -4,6 +4,12 @@ def school
    @school = School.new("Test School")
 end
 
+def new
+  roster = [ ]
+end 
+
+
+
 school =
 School.new("Bayside High School")
 
