@@ -1,4 +1,8 @@
 # code here!
+
+def school
+  @school = school
+
 school =
 School.new("Bayside High School")
 
