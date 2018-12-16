@@ -1,7 +1,8 @@
 # code here!
 
 def school
-  @school = school
+   @school = School.new("Test School")
+end
 
 school =
 School.new("Bayside High School")
