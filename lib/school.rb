@@ -8,7 +8,8 @@ def new
   roster = [ ]
 end 
 
-def add_new 
+def add_student
+  @roster = 
 
 
 school =
