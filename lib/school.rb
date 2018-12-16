@@ -8,6 +8,7 @@ def new
   roster = [ ]
 end 
 
+def add_new 
 
 
 school =
